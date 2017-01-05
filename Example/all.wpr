@@ -1,0 +1,14 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('bibao.py'),
+                  loc('buildin.py'),
+                  loc('decorator.py'),
+                  loc('flask_demo.py'),
+                  loc('function_demo.py'),
+                  loc('map_reduce.py'),
+                  loc('os_dir.py')]
+proj.file-type = 'shared'
